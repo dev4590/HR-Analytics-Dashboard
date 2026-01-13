@@ -3,7 +3,7 @@
 
 ## Overview
 This project analyzes employee data to understand **attrition** and workforce trends.  
-An interactive dashboard is created using **:contentReference[oaicite:0]{index=0}** to help HR teams make better decisions.
+An interactive dashboard is created using **Power-BI** to help HR teams make better decisions.
 
 ---
 
